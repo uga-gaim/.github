@@ -1,6 +1,6 @@
 # GAIM @ UGA
 
-The [Lab for Geoinformatics and AI Modeling (GAIM)](https://weiming.uga.edu/gaim) at the University of Georgia advances geospatial analytics and predictive modeling by integrating artificial intelligence with remote sensing and GIS. Our research focuses on developing accurate, reliable, and uncertainty-aware machine learning methods with Earth data, with applications including renewable energy forecasting, extreme event prediction, and water resource management.
+The [Geoinformatics and AI Modeling (GAIM)](https://weiming.uga.edu/gaim) Lab at the University of Georgia advances geospatial analytics and predictive modeling by integrating artificial intelligence with remote sensing and GIS. Our research focuses on developing accurate, reliable, and uncertainty-aware machine learning methods with Earth data, with applications including renewable energy forecasting, extreme event prediction, and water resource management.
 
 **We welcome collaboration with students, researchers, and partners interested in AI, geospatial science, and environmental data modeling.** Please see the [lab website](https://weiming.uga.edu/gaim) for more information.
 
